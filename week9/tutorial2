@@ -1,0 +1,71 @@
+1) i) 
+a- number = 8,
+b- &number = 7700
+c- p=100 
+d- &p= 3478  
+e- DOESNT point to anything.
+
+ii)
+a- 100
+b- 7700
+c- 100
+d- 3478 
+e- DOESNT POINT TO ANYTHING.
+
+iii) 
+a-100
+b- 7700
+c- 7700
+d- 3478 
+e- 100
+
+iv) 
+a- 10
+b- 7700
+c- 7700
+d- 3478 
+e- 10 
+
+
+v) 
+a- 3478
+b- 7700
+c- 7700
+d- 3478
+e- 3478 
+
+vi) 
+a- 3478
+b- 7700
+c- 3478
+d- 3478
+e- 3478 
+
+2) 
+a- It is supposed to return a statement but there is no return in that function A 
+    could add a return result;
+
+b-  There is no return statement in the else statement of the if loop. Add a return sum; in the final statement
+
+
+c- 
+
+d-  
+
+e- it says return void instead of returning the float that pointer *h is pointing to.
+
+f- the 2nd divideby 2 would not run at all.
+
+3)
+i) h= 5 k=15 ; 
+ii) h= 5 k=15 ; 
+iii) h= 5 k = 15 ; 
+iv ) h = 5 k = 15 ; 
+v) -100 -100 ; 
+vi) 5, 15 ;
+vii) 100,100;
+viii) _ _ some garbage number 
+ix) 200 200
+
+
+4) 

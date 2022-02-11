@@ -1,0 +1,1 @@
+    diagonals2D(ar, rowSize, colSize, &sum1, &sum2);
